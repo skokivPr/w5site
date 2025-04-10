@@ -489,7 +489,6 @@ window.addEventListener('load', function () {
     addDynamicStyles();
     createCircuitAnimation();
     setupLinkEffects();
-    setupParallax();
     setupCardEffects();
     createTypingEffect();
     setupSectionTitleEffect();
